@@ -7,7 +7,7 @@
 .head1 {
   color: rgb(114, 64, 64);
   background-color: rgb(222, 186, 255);
-  padding: 4%;
+  padding: 8%;
 }
 .vi {
   float: right;
@@ -16,4 +16,15 @@
 .vt {
   padding-top: 2.5%;
   margin-right: 3%;
+}
+.video {
+  align-content: center;
+  width: 706.8px;
+  height: 397.575px;
+  left: 21px;
+  top: 121px;
+}
+.writericon {
+  border-radius: 50%;
+  width: 8%;
 }
