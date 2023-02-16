@@ -32,5 +32,8 @@
   font-weight: bolder;
   font-size: large;
 }
-#ws {
+#foot {
+  text-align: center;
+  background-color: aqua;
+  border-radius: 50%;
 }
