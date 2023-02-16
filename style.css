@@ -22,3 +22,15 @@
   display: flex;
   justify-content: space-between;
 }
+#wp {
+  border-radius: 50%;
+  width: 8%;
+  margin-left: 2%;
+}
+#pi {
+  display: flex;
+  font-weight: bolder;
+  font-size: large;
+}
+#ws {
+}
